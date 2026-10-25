@@ -1,0 +1,26 @@
+medicine_id,medicine_name,category,reorder_level
+MED-001,Amoxicillin 500mg,Antibiotics,15
+MED-002,Azithromycin 250mg,Antibiotics,40
+MED-003,Ciprofloxacin 500mg,Antibiotics,30
+MED-004,Cefixime 200mg,Antibiotics,25
+MED-005,Paracetamol 650mg,Analgesics,25
+MED-006,Ibuprofen 400mg,Analgesics,50
+MED-007,Diclofenac 50mg,Analgesics,15
+MED-008,Tramadol 50mg,Analgesics,40
+MED-009,Amlodipine 5mg,Cardiovascular,20
+MED-010,Losartan 50mg,Cardiovascular,15
+MED-011,Atorvastatin 20mg,Cardiovascular,30
+MED-012,Metoprolol 25mg,Cardiovascular,50
+MED-013,Metformin 500mg,Antidiabetic,40
+MED-014,Glimepiride 2mg,Antidiabetic,40
+MED-015,Sitagliptin 100mg,Antidiabetic,40
+MED-016,Omeprazole 20mg,Gastrointestinal,40
+MED-017,Pantoprazole 40mg,Gastrointestinal,30
+MED-018,Ranitidine 150mg,Gastrointestinal,15
+MED-019,Cetirizine 10mg,Antihistamine,50
+MED-020,Montelukast 10mg,Respiratory,25
+MED-021,Salbutamol Inhaler 100mcg,Respiratory,30
+MED-022,Vitamin D3 60K IU,Vitamins & Supplements,25
+MED-023,Ascorbic Acid (Vit C) 500mg,Vitamins & Supplements,20
+MED-024,Zinc Sulfate 50mg,Vitamins & Supplements,50
+MED-025,Multivitamin Complex,Vitamins & Supplements,40
